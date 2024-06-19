@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj": {}
+    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\MaquinariaApp\\MaquinariaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj": {
+    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\MaquinariaApp\\MaquinariaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj",
-        "projectName": "ProyectoLINQ",
-        "projectPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\MaquinariaApp\\MaquinariaApp.csproj",
+        "projectName": "MaquinariaApp",
+        "projectPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\MaquinariaApp\\MaquinariaApp.csproj",
         "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\obj\\",
+        "outputPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\MaquinariaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

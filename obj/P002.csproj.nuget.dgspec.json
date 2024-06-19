@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj": {}
+    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\P002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj": {
+    "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\P002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj",
-        "projectName": "ProyectoLINQ",
-        "projectPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\ProyectoLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\P002.csproj",
+        "projectName": "P002",
+        "projectPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\P002.csproj",
         "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\ProyectoLINQ\\obj\\",
+        "outputPath": "C:\\Users\\Propietario\\Documents\\GitHub\\P002\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
