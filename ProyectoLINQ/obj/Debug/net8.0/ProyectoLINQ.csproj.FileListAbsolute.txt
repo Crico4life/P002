@@ -1,0 +1,14 @@
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\bin\Debug\net8.0\ProyectoLINQ.exe
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\bin\Debug\net8.0\ProyectoLINQ.deps.json
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\bin\Debug\net8.0\ProyectoLINQ.runtimeconfig.json
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\bin\Debug\net8.0\ProyectoLINQ.dll
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\bin\Debug\net8.0\ProyectoLINQ.pdb
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.AssemblyInfoInputs.cache
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.AssemblyInfo.cs
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.dll
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\refint\ProyectoLINQ.dll
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.pdb
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ProyectoLINQ.genruntimeconfig.cache
+C:\Users\Propietario\Documents\GitHub\P002\ProyectoLINQ\obj\Debug\net8.0\ref\ProyectoLINQ.dll
